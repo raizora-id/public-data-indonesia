@@ -1,0 +1,14 @@
+# Last updated: 2025-05-02
+# Version: 1.0.0
+
+---
+# Repository metadata
+metadata:
+  name: "Data Indonesia"
+  description: "Central repository for all frontend applications and packages"
+  version: "1.0.0"
+  maintained_by: "Engineering Team"
+  
+
+# Repository type
+type: data-api
