@@ -1,0 +1,71 @@
+kode,nama_suku,provinsi,pulau
+1,Aceh,Aceh,Sumatera
+2,Batak,Sumatera Utara,Sumatera
+3,Batak Toba,Sumatera Utara,Sumatera
+4,Batak Karo,Sumatera Utara,Sumatera
+5,Batak Mandailing,Sumatera Utara,Sumatera
+6,Batak Pakpak,Sumatera Utara,Sumatera
+7,Batak Simalungun,Sumatera Utara,Sumatera
+8,Nias,Sumatera Utara,Sumatera
+9,Minangkabau,Sumatera Barat,Sumatera
+10,Mentawai,Sumatera Barat,Sumatera
+11,Melayu,Riau-Kepulauan Riau-Sumatera Utara-Jambi-Sumatera Selatan-Kalimantan Barat,Sumatera-Kalimantan
+12,Rejang,Bengkulu,Sumatera
+13,Enggano,Bengkulu,Sumatera
+14,Kerinci,Jambi,Sumatera
+15,Komering,Sumatera Selatan,Sumatera
+16,Ogan,Sumatera Selatan,Sumatera
+17,Pasemah,Sumatera Selatan,Sumatera
+18,Semenda,Sumatera Selatan,Sumatera
+19,Lematang,Sumatera Selatan,Sumatera
+20,Kubu,Sumatera Selatan-Jambi,Sumatera
+21,Lampung,Lampung,Sumatera
+22,Sekak Bangka,Bangka Belitung,Sumatera
+23,Jawa,Jawa Tengah-Jawa Timur-DI Yogyakarta,Jawa
+24,Sunda,Jawa Barat-Banten,Jawa
+25,Baduy,Banten,Jawa
+26,Betawi,DKI Jakarta,Jawa
+27,Banten,Banten,Jawa
+28,Cirebon,Jawa Barat,Jawa
+29,Tengger,Jawa Timur,Jawa
+30,Osing,Jawa Timur,Jawa
+31,Madura,Jawa Timur,Jawa-Madura
+32,Bali,Bali,Bali
+33,Sasak,Nusa Tenggara Barat,Nusa Tenggara
+34,Sumbawa,Nusa Tenggara Barat,Nusa Tenggara
+35,Bima,Nusa Tenggara Barat,Nusa Tenggara
+36,Dompu,Nusa Tenggara Barat,Nusa Tenggara
+37,Sumba,Nusa Tenggara Timur,Nusa Tenggara
+38,Sabu,Nusa Tenggara Timur,Nusa Tenggara
+39,Rote,Nusa Tenggara Timur,Nusa Tenggara
+40,Alor,Nusa Tenggara Timur,Nusa Tenggara
+41,Manggarai,Nusa Tenggara Timur,Nusa Tenggara
+42,Ende,Nusa Tenggara Timur,Nusa Tenggara
+43,Dayak,Kalimantan,Kalimantan
+44,Dayak Ngaju,Kalimantan Tengah,Kalimantan
+45,Dayak Iban,Kalimantan Barat,Kalimantan
+46,Dayak Kenyah,Kalimantan Timur,Kalimantan
+47,Banjar,Kalimantan Selatan,Kalimantan
+48,Kutai,Kalimantan Timur,Kalimantan
+49,Berau,Kalimantan Timur,Kalimantan
+50,Buginese,Sulawesi Selatan,Sulawesi
+51,Makassar,Sulawesi Selatan,Sulawesi
+52,Toraja,Sulawesi Selatan,Sulawesi
+53,Mandar,Sulawesi Barat,Sulawesi
+54,Minahasa,Sulawesi Utara,Sulawesi
+55,Gorontalo,Gorontalo,Sulawesi
+56,Tolaki,Sulawesi Tenggara,Sulawesi
+57,Buton,Sulawesi Tenggara,Sulawesi
+58,Muna,Sulawesi Tenggara,Sulawesi
+59,Kaili,Sulawesi Tengah,Sulawesi
+60,Ambon,Maluku,Maluku
+61,Kei,Maluku,Maluku
+62,Tanimbar,Maluku,Maluku
+63,Seram,Maluku,Maluku
+64,Ternate,Maluku Utara,Maluku
+65,Tidore,Maluku Utara,Maluku
+66,Dani,Papua,Papua
+67,Asmat,Papua,Papua
+68,Biak,Papua,Papua
+69,Arfak,Papua Barat,Papua
+70,Sentani,Papua,Papua
